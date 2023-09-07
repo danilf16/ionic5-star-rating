@@ -4,7 +4,7 @@ This library was forked from https://github.com/melwinVincent/ionic4-star-rating
 
 ## Install
 
-Run `npm install --save https://github.com/JeongJun-Lee/ionic5-star-rating/tarball/master`
+Run `npm install --save https://github.com/danilf16/ionic5-star-rating/tarball/master`
 
 ## How to use
 
